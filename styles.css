@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+	font-family: 'Share Tech Mono';
+	color: black;
+    }
+#logo {
+	width: 30%;
+	height: 30%;
+}
+li {
+    display: inline;
+    margin: 0px 10px 0px 10px;
+}
+#posts {
+	width: 75%;
+	height: 75%;
+	margin: 20px;
+}
+a:visited {
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+}
+a:link {
+	color: black;
+	margin: 0px 10px 0px 10px;
+}
+#containerAll {
+	max-width: 100%;
+	margin: 20px;
+}
+#containerStacked {
+	max-width: 100%;
+	margin: 20px;
+}
+#containerShare {
+	max-width: 100%;
+	margin: 20px;
+}
